@@ -14,7 +14,9 @@
     {
       "name": "signalpilot-dbt",
       "source": "signalpilot-dbt",
-      "description": "Governed AI database access for dbt and SQL — sandboxed queries, schema discovery, and intelligent model building powered by SignalPilot."
+      "description": "Governed AI database access for dbt and SQL — sandboxed queries, schema discovery, and intelligent model building powered by SignalPilot.",
+      "logo": "assets/logo.svg",
+      "category": "data"
     }
   ]
 }

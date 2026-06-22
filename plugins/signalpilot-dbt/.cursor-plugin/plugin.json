@@ -9,5 +9,6 @@
   },
   "repository": "https://github.com/SignalPilot-Labs/signalpilot-plugin-cursor",
   "license": "Apache-2.0",
+  "logo": "assets/logo.svg",
   "keywords": ["dbt", "sql", "database", "analytics", "data-engineering", "mcp", "cursor"]
 }
