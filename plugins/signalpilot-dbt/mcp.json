@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "signalpilot": {
+      "url": "http://localhost:3300/mcp"
+    }
+  }
+}

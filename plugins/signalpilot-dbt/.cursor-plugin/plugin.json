@@ -1,0 +1,13 @@
+{
+  "name": "signalpilot-dbt",
+  "displayName": "SignalPilot for dbt",
+  "version": "1.0.0",
+  "description": "Governed AI database access for dbt and SQL — sandboxed queries, schema discovery, and intelligent model building powered by SignalPilot.",
+  "author": {
+    "name": "SignalPilot Labs",
+    "email": "support@signalpilot.dev"
+  },
+  "repository": "https://github.com/SignalPilot-Labs/signalpilot-plugin-cursor",
+  "license": "Apache-2.0",
+  "keywords": ["dbt", "sql", "database", "analytics", "data-engineering", "mcp", "cursor"]
+}

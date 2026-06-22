@@ -1,0 +1,20 @@
+{
+  "name": "signalpilot",
+  "displayName": "SignalPilot",
+  "owner": {
+    "name": "SignalPilot Labs",
+    "email": "support@signalpilot.dev"
+  },
+  "metadata": {
+    "description": "Governed AI database access for dbt and SQL — sandboxed queries, schema discovery, and intelligent model building powered by SignalPilot.",
+    "version": "1.0.0",
+    "pluginRoot": "plugins"
+  },
+  "plugins": [
+    {
+      "name": "signalpilot-dbt",
+      "source": "signalpilot-dbt",
+      "description": "Governed AI database access for dbt and SQL — sandboxed queries, schema discovery, and intelligent model building powered by SignalPilot."
+    }
+  ]
+}
